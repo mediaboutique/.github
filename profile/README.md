@@ -1,4 +1,4 @@
-## Media Boutique -- Design &amp; development studio
+## Media Boutique - Design &amp; development studio
 
 [Media Boutique](https://mediaboutique.nl) is een design & development studio, volledig gericht op *online*. Wij ontwikkelen web apps, websites, en digitale producten.
 
